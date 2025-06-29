@@ -7,6 +7,8 @@ Im learing how to use the godot game engine through the use of a tutorial on you
 I will be tring to update it as much as possible, and hopfully finish it before summer 😊  
 (i woudlve used unity or unreal however my mac doesnt have enough storage 🥲)
 
+(pls suggest a name)
+
 
 
 tut link below:
